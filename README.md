@@ -1,11 +1,6 @@
 # ml_house_rent
 
-# modeling_machine_learning
-
 # Construindo um Modelo de Regressão para Marketing
-
-## Sobre
-Neste projeto, aplicamos diversas técnicas de regressão para prever os preços de imóveis, optando pelo XGBoost como o modelo base mais eficaz. Em seguida, realizamos a otimização desse modelo utilizando **Grid Search**, o que resultou em uma redução significativa no erro das previsões, ao ajustar hiperparâmetros-chave.
 
 ### **Objetivo**
 Este desafio visa construir um modelo de regressão para entender a relação entre os investimentos em marketing (Youtube, Facebook, Newspaper) e o retorno de vendas. O modelo deve ser capaz de prever os retornos baseados nos investimentos realizados em cada plataforma.
